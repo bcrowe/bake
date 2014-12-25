@@ -7,7 +7,7 @@ use Cake\TestSuite\TestCase;
 /**
  * App\Model\Behavior\ExampleBehavior Test Case
  */
-class ExampleBehaviorTest extends TestCase
+class testBakeBehaviorTest extends TestCase
 {
 
     /**

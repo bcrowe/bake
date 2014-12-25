@@ -6,7 +6,7 @@ use Cake\ORM\Entity;
 /**
  * BakeUser Entity.
  */
-class BakeUser extends Entity
+class testBakeEntityHidden extends Entity
 {
 
     /**

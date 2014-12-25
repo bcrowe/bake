@@ -8,7 +8,7 @@ use Cake\View\View;
 /**
  * App\View\Helper\ExampleHelper Test Case
  */
-class ExampleHelperTest extends TestCase
+class testBakeHelperTest extends TestCase
 {
 
     /**

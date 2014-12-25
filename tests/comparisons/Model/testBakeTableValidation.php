@@ -8,7 +8,7 @@ use Cake\Validation\Validator;
 /**
  * BakeArticles Model
  */
-class BakeArticlesTable extends Table
+class testBakeTableValidation extends Table
 {
 
     /**

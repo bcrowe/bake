@@ -7,7 +7,7 @@ use Cake\ORM\Table;
 /**
  * Example behavior
  */
-class ExampleBehavior extends Behavior
+class testBakePlugin extends Behavior
 {
 
     /**

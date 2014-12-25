@@ -7,7 +7,7 @@ use Cake\TestSuite\TestCase;
 /**
  * App\Shell\ArticlesShell Test Case
  */
-class ArticlesShellTest extends TestCase
+class testBakeShellTest extends TestCase
 {
 
     /**

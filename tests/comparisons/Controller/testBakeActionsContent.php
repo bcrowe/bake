@@ -8,7 +8,7 @@ use App\Controller\AppController;
  *
  * @property \App\Model\Table\BakeArticlesTable $BakeArticles
  */
-class BakeArticlesController extends AppController
+class testBakeActionsContent extends AppController
 {
 
     /**

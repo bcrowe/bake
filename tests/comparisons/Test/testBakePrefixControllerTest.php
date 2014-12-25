@@ -7,7 +7,7 @@ use TestApp\Controller\Admin\PostsController;
 /**
  * TestApp\Controller\Admin\PostsController Test Case
  */
-class PostsControllerTest extends IntegrationTestCase
+class testBakePrefixControllerTest extends IntegrationTestCase
 {
 
     /**

@@ -6,7 +6,7 @@ use Cake\View\Cell;
 /**
  * Example cell
  */
-class ExampleCell extends Cell
+class testBakePlugin extends Cell
 {
 
     /**

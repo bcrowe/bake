@@ -8,7 +8,7 @@ use ControllerTest\Controller\AppController;
  *
  * @property \ControllerTest\Model\Table\BakeArticlesTable $BakeArticles
  */
-class BakeArticlesController extends AppController
+class testBakeWithPlugin extends AppController
 {
 
     /**

@@ -8,7 +8,7 @@ use TestApp\Controller\Component\AppleComponent;
 /**
  * TestApp\Controller\Component\AppleComponent Test Case
  */
-class AppleComponentTest extends TestCase
+class testBakeComponentTest extends TestCase
 {
 
     /**

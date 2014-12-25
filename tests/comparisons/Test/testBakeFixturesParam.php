@@ -8,7 +8,7 @@ use Cake\TestSuite\TestCase;
 /**
  * App\Model\Table\ArticlesTable Test Case
  */
-class ArticlesTableTest extends TestCase
+class testBakeFixturesParam extends TestCase
 {
 
     /**
